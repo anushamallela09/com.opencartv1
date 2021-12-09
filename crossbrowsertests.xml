@@ -1,0 +1,22 @@
+
+
+<suite name ="OpenCart Test Suite" thread-count="2" parallel = "tests">
+    <test name = "ChromeTests">
+        <parameter name = "browser" value="chrome"/>
+        <classes>
+            <class name = "testCases.TC_001_AccountRegistration"/>;
+        </classes>
+    </test>
+    <test name = "EdgeTests">
+        <classes>
+            <parameter name = "browser" value="edge"/>
+            <class name = "testCases.TC_001_AccountRegistration"/>;
+        </classes>
+    </test>
+    <test name = "FirefoxTests">
+        <classes>
+            <parameter name = "browser" value="firefox"/>
+            <class name = "testCases.TC_001_AccountRegistration"/>;
+        </classes>
+    </test>
+</suite>

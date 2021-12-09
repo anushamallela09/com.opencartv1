@@ -1,0 +1,315 @@
+06:37:25.294 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+06:37:25.910 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+06:37:26.397 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+06:37:27.496 [main] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+06:37:27.524 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+06:37:49.410 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+06:37:49.997 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+06:37:50.363 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+06:37:51.386 [main] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+06:37:51.413 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+15:12:48.386 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+15:12:49.253 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+15:12:49.934 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+15:12:50.406 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+15:12:51.268 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Launched Edge Browser
+15:12:51.901 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+15:12:51.947 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+15:12:52.127 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+15:12:52.792 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+15:12:53.213 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+15:12:54.391 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+15:12:54.425 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+15:12:58.003 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched firefox Browser
+15:12:58.871 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+15:12:59.125 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+15:12:59.507 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+15:13:00.596 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+15:13:00.609 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+15:13:56.458 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+15:13:57.453 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+15:13:57.492 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Launched Edge Browser
+15:13:58.207 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+15:13:58.310 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+15:13:58.735 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+15:13:58.945 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+15:13:59.378 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+15:14:00.009 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+15:14:00.039 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+15:14:00.509 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+15:14:00.554 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+15:14:03.391 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched firefox Browser
+15:14:04.261 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+15:14:04.579 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+15:14:04.996 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+15:14:06.159 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+15:14:06.170 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+15:18:17.464 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+15:18:18.263 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+15:18:18.872 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Launched Edge Browser
+15:18:18.960 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+15:18:19.391 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+15:18:19.840 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+15:18:20.520 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+15:18:20.733 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+15:18:20.761 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+15:18:20.988 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+15:18:22.331 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+15:18:22.373 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+15:18:24.146 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched firefox Browser
+15:18:24.987 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+15:18:25.225 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+15:18:25.602 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+15:18:26.762 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+15:18:26.774 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+15:32:04.144 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+15:32:04.952 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+15:32:05.536 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+15:32:05.926 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+15:32:07.006 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+15:32:07.037 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+16:10:21.288 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+16:10:22.130 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+16:10:22.768 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+16:10:23.180 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+16:10:24.237 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+16:10:24.265 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+16:12:19.189 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+16:12:20.351 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+16:12:20.415 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+16:12:20.798 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+16:12:21.826 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+16:20:53.197 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+16:20:53.915 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+16:20:54.560 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+16:20:54.999 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+16:20:56.118 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+17:25:15.595 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+17:25:50.262 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+17:26:34.668 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+17:30:43.163 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+17:32:16.048 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+17:32:18.780 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+17:32:18.780 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+17:33:26.142 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+17:33:28.759 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login unsuccessful
+17:35:59.364 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+17:36:02.390 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login unsuccessful
+17:39:50.851 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+17:39:53.106 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login unsuccessful
+17:48:01.815 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+17:48:02.725 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+17:48:03.564 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+17:48:03.951 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+17:48:05.036 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+17:48:05.064 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+17:48:06.006 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+17:48:08.533 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+17:48:08.534 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+07:59:28.249 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+07:59:29.145 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+07:59:29.787 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+07:59:30.234 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+07:59:31.258 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+07:59:31.287 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+07:59:32.221 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+07:59:34.805 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+07:59:34.805 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+07:59:35.416 [TestNG-tests-1] INFO  testCases.TC_002_Login - Logout Successful
+08:01:02.841 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+08:01:03.606 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+08:01:04.218 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+08:01:05.533 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+08:01:06.638 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+08:01:06.665 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+08:01:07.626 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+08:01:10.424 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+08:01:10.424 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+08:01:11.354 [TestNG-tests-1] INFO  testCases.TC_002_Login - Logout Failed
+09:57:53.271 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+09:57:55.998 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+09:57:55.998 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+09:57:56.616 [TestNG-tests-1] INFO  testCases.TC_002_Login - Logout Successful
+10:26:13.717 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Launched Chrome Browser
+10:26:21.515 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:26:23.507 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:26:34.915 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:26:46.334 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:28:16.367 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Launched Chrome Browser
+10:28:19.553 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:28:30.044 [TestNG-tests-1] FATAL testCases.TC_003_LoginDDT - Login Failed
+10:28:40.530 [TestNG-tests-1] FATAL testCases.TC_003_LoginDDT - Login Failed
+10:28:51.030 [TestNG-tests-1] FATAL testCases.TC_003_LoginDDT - Login Failed
+10:33:14.306 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Launched Chrome Browser
+10:33:17.473 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:33:27.910 [TestNG-tests-1] FATAL testCases.TC_003_LoginDDT - Login Failed
+10:33:38.375 [TestNG-tests-1] FATAL testCases.TC_003_LoginDDT - Login Failed
+10:33:48.820 [TestNG-tests-1] FATAL testCases.TC_003_LoginDDT - Login Failed
+10:34:35.155 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Launched Chrome Browser
+10:34:38.394 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:34:48.874 [TestNG-tests-1] FATAL testCases.TC_003_LoginDDT - Login Failed
+10:34:59.371 [TestNG-tests-1] FATAL testCases.TC_003_LoginDDT - Login Failed
+10:35:09.855 [TestNG-tests-1] FATAL testCases.TC_003_LoginDDT - Login Failed
+10:35:54.788 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Launched Chrome Browser
+10:36:29.729 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:39:08.388 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Launched Chrome Browser
+10:39:25.873 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Login Successful
+10:39:36.462 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:39:59.538 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Login unsuccessful
+10:40:08.719 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:40:18.033 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Launched Chrome Browser
+10:40:21.137 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Login Successful
+10:40:21.735 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:40:23.049 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Login unsuccessful
+10:40:23.049 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:40:24.411 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Login unsuccessful
+10:40:24.411 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:40:25.771 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Login unsuccessful
+10:40:25.771 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:40:45.905 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Launched Chrome Browser
+10:41:03.198 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Login Successful
+10:41:22.782 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:42:08.839 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Login unsuccessful
+10:42:14.479 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:42:30.356 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Login unsuccessful
+10:42:33.583 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+10:42:40.133 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Login unsuccessful
+10:42:42.728 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Finished
+11:20:56.995 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+11:21:00.156 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+11:21:00.156 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+11:21:00.875 [TestNG-tests-1] INFO  testCases.TC_002_Login - Logout Successful
+11:21:18.015 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+11:21:18.781 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+11:21:19.429 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+11:21:19.932 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+11:21:20.991 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+11:21:21.017 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+11:22:11.212 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+11:22:12.201 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+11:22:12.273 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+11:22:12.779 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+11:22:13.990 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+11:22:14.016 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+11:22:14.963 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+11:22:17.571 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+11:22:17.571 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+11:22:18.201 [TestNG-tests-1] INFO  testCases.TC_002_Login - Logout Successful
+12:48:58.947 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+12:48:59.856 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+12:49:00.520 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+12:49:00.956 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+12:49:02.193 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+12:49:02.225 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+12:49:30.711 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+12:49:31.509 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+12:49:32.174 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+12:49:32.567 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+12:49:33.735 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+12:49:33.768 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+12:49:35.149 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+12:49:38.168 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+12:49:38.169 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+12:49:38.846 [TestNG-tests-1] INFO  testCases.TC_002_Login - Logout Successful
+12:51:18.452 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+12:51:19.477 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+12:51:20.160 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+12:51:20.576 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+12:51:21.781 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+12:51:21.811 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+12:51:23.332 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+12:51:33.353 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+12:51:34.223 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+12:51:34.892 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+12:51:35.313 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+12:51:36.555 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+12:51:36.584 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+12:51:37.790 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+12:51:40.504 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+12:51:40.504 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+12:51:41.197 [TestNG-tests-1] INFO  testCases.TC_002_Login - Logout Successful
+12:51:58.992 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+12:51:59.835 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+12:52:00.505 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+12:52:00.983 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+12:52:02.202 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+12:52:02.231 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+12:52:03.472 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+12:52:06.209 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+12:52:06.209 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+12:52:06.872 [TestNG-tests-1] INFO  testCases.TC_002_Login - Logout Successful
+12:53:41.924 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+12:53:42.652 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+12:53:43.302 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+12:53:43.713 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+12:53:44.885 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+12:53:44.912 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+12:53:46.036 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+12:53:48.664 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+12:53:48.664 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+12:53:49.487 [TestNG-tests-1] INFO  testCases.TC_002_Login - Logout Successful
+12:54:16.415 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+12:54:17.207 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+12:54:17.830 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+12:54:18.282 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+12:54:19.392 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+12:54:19.424 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+12:54:20.561 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+12:54:23.244 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+12:54:23.244 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+12:54:24.211 [TestNG-tests-1] INFO  testCases.TC_002_Login - Logout Successful
+13:08:26.668 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+13:08:27.397 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+13:08:28.023 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+13:08:28.411 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+13:08:29.904 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+13:08:29.932 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+13:08:30.869 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+13:08:33.625 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+13:08:33.626 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+13:08:34.312 [TestNG-tests-1] INFO  testCases.TC_002_Login - Logout Successful
+13:09:12.617 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+13:09:13.376 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+13:09:14.028 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+13:09:14.416 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+13:09:15.511 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+13:09:15.541 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+13:09:16.502 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+13:09:18.985 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+13:09:18.985 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+13:09:19.661 [TestNG-tests-1] INFO  testCases.TC_002_Login - Logout Successful
+13:21:04.981 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+13:21:05.747 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+13:21:06.417 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+13:21:06.878 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+13:21:07.921 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+13:21:07.948 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+13:21:08.921 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+13:21:11.522 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+13:21:11.522 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+13:21:12.171 [TestNG-tests-1] INFO  testCases.TC_002_Login - Logout Successful
+14:42:15.791 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+14:42:16.857 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+14:42:17.527 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+14:42:18.087 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+14:42:19.175 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+14:42:19.203 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
+14:42:20.200 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+14:42:23.066 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+14:42:23.066 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+14:42:23.938 [TestNG-tests-1] INFO  testCases.TC_002_Login - Logout Successful
+14:49:49.771 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+14:49:50.540 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+14:49:51.154 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+14:49:51.579 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+14:49:52.636 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+14:49:53.842 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+14:49:56.486 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
+14:49:56.486 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+14:49:57.661 [TestNG-tests-1] INFO  testCases.TC_002_Login - Logout Successful
+14:54:31.331 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+14:54:32.048 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+14:54:32.663 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on MyAccount
+14:54:33.059 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+14:54:34.105 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Enter User Details
+14:54:34.132 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Finished
