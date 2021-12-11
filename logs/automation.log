@@ -363,3 +363,15 @@
 16:05:43.042 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Successful
 16:05:43.042 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
 16:05:43.667 [TestNG-tests-1] INFO  testCases.TC_002_Login - Logout Successful
+17:20:51.182 [TestNG-tests-1] INFO  testCases.TC_004_Search - Launched Chrome Browser
+17:21:01.255 [TestNG-tests-1] FATAL testCases.TC_004_Search - search failed
+17:23:33.653 [TestNG-tests-1] INFO  testCases.TC_004_Search - Launched Chrome Browser
+17:25:02.252 [TestNG-tests-1] INFO  testCases.TC_004_Search - Launched Chrome Browser
+17:25:30.040 [TestNG-tests-1] INFO  testCases.TC_004_Search - Search test case passed
+17:25:47.496 [TestNG-tests-1] INFO  testCases.TC_004_Search - Launched Chrome Browser
+17:25:48.876 [TestNG-tests-1] INFO  testCases.TC_004_Search - Search test case passed
+18:37:10.985 [TestNG-tests-1] INFO  testCases.TC_005_AddToCart - Launched Chrome Browser
+18:37:23.763 [TestNG-tests-1] INFO  testCases.TC_005_AddToCart - Search  passed
+18:38:34.850 [TestNG-tests-1] INFO  testCases.TC_005_AddToCart - Productname is displayed in Productdisplaypage
+18:39:17.263 [TestNG-tests-1] INFO  testCases.TC_005_AddToCart - ShoppingCart Page is displayed
+18:39:17.295 [TestNG-tests-1] INFO  testCases.TC_005_AddToCart - product is added into shopping casr page

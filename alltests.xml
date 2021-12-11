@@ -1,3 +1,4 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 <suite name ="OpenCart Test Suite" thread-count="2" parallel = "tests">
     <listeners>
         <listener class-name ="utilities.ExtentReportManager"/>
@@ -5,8 +6,9 @@
     <test name = "ChromeTests">
         <parameter name = "browser" value="chrome"/>
         <classes>
-            <class name = "testCases.TC_001_AccountRegistration"/>
-            <class name = "testCases.TC_002_Login"/>
+           <!--<class name = "testCases.TC_001_AccountRegistration"/>
+            <class name = "testCases.TC_002_Login"/>-->
+            <class name = "testCases.TC_005_AddToCart"/>
             <!--- <class name = "testCases.TC_003_LoginDDT"/>;-->
        </classes>
    </test>
