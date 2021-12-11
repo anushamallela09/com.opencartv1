@@ -24,6 +24,11 @@ public class HomePage extends ExtentReportManager {
     @FindBy(linkText = "My Account")
     WebElement lnkMyAccount;
 
+    @FindBy(xpath = "//input[@placeholder='Search']")
+    WebElement txtSearch;
+
+    @FindBy(xpath = "//button[@class='btn btn-default btn-lg']")
+    WebElement searchButton;
 
 
     public void clickMyAccount() {
@@ -34,5 +39,9 @@ public class HomePage extends ExtentReportManager {
     }
     public void clickLogin() {
         lnkLogin.click();
+    }
+    public void setSearch(String searchText) {
+        txtSearch.sendKeys(searchText);
+        searchButton.click();
     }
 }

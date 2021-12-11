@@ -6,6 +6,8 @@ testBase\BaseClass.class
 testCases\TC_001_AccountRegistration.class
 pageObjects\RegistrationPage.class
 pageObjects\LoginPage.class
+testCases\TC_005_AddCart.class
 utilities\XLUtility.class
 pageObjects\AccountLogoutPage.class
 utilities\ExtentReportManager.class
+testCases\TC_004_Search.class
