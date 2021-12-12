@@ -10,6 +10,7 @@ import pageObjects.ShoppingCartPage;
 import testBase.BaseClass;
 
 public class TC_005_AddToCart extends BaseClass {
+
     @Test
     public void testAddToCart() {
 

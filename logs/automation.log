@@ -375,3 +375,8 @@
 18:38:34.850 [TestNG-tests-1] INFO  testCases.TC_005_AddToCart - Productname is displayed in Productdisplaypage
 18:39:17.263 [TestNG-tests-1] INFO  testCases.TC_005_AddToCart - ShoppingCart Page is displayed
 18:39:17.295 [TestNG-tests-1] INFO  testCases.TC_005_AddToCart - product is added into shopping casr page
+11:49:58.843 [TestNG-tests-1] INFO  testCases.TC_005_AddToCart - Launched Chrome Browser
+11:50:01.187 [TestNG-tests-1] INFO  testCases.TC_005_AddToCart - Search  passed
+11:50:02.692 [TestNG-tests-1] INFO  testCases.TC_005_AddToCart - Productname is displayed in Productdisplaypage
+11:50:03.876 [TestNG-tests-1] INFO  testCases.TC_005_AddToCart - ShoppingCart Page is displayed
+11:50:03.926 [TestNG-tests-1] INFO  testCases.TC_005_AddToCart - product is added into shopping casr page
